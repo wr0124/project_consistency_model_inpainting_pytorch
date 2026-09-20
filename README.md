@@ -76,6 +76,11 @@ The code also supports:
 
 Python · PyTorch · TorchVision · Consistency Models · Generative AI · U-Net · Image Inpainting · Computer Vision · Visdom
 
+### Installation
+
+```bash
+pip install -r requirements.txt
+
 ## Running an experiment
 
 The example configuration is available in:
